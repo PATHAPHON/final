@@ -17,6 +17,7 @@ namespace Motorbike_rental
         private string Firstname;
         private string Email;
 
+        //interface
         public string Firstnamed
         {
             get { return Firstname;  }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Motorbike rental")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8549681a13b8b38c651c2ae1d271e60f604d1a69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493f3209378c900d74d8e95d72464a29fc2b1ce0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Motorbike rental")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Motorbike rental")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

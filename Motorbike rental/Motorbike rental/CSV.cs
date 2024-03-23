@@ -8,7 +8,7 @@ namespace Motorbike_rental
 {
     internal class CSV
     {
-        private string path = @"C:\Users\patap\Documents\final_project-main\final_project-main\Motorbike rental\Data.csv";
+        private string path = @"C:\Users\patap\Documents\final_project-main\final_project-main\final\Motorbike rental\data.csv";
 
         ///try: เป็นบล็อกโค้ดที่ใช้สำหรับ การลองทำ สิ่งใดสิ่งหนึ่ง
          /// ในกรณีนี้ โค้ดจะพยายาม เขียนข้อความ ไปยังไฟล์
