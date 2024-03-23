@@ -75,13 +75,6 @@ class Vehicle {
         +void button1_Click(object sender, EventArgs e)
         +void button4_Click(object sender, EventArgs e)
         +void button2_Click(object sender, EventArgs e)
-        +void textBox2_TextChanged(object sender, EventArgs e)
-        +void Form1_Load(object sender, EventArgs e)
-        +void textBox7_TextChanged(object sender, EventArgs e)
-        +void groupBox1_Enter(object sender, EventArgs e)
-        +void groupBox5_Enter(object sender, EventArgs e)
-        +void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        +void groupBox3_Enter(object sender, EventArgs e)
     }
     class Fazzio {
         +CylinderVolume(): string
