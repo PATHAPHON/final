@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patap\\Documents\\final_project-main\\final_project-main\\Motorbike rental\\Motorbike rental\\Motorbike rental.csproj",
+      "projectUniqueName": "C:\\Users\\patap\\Documents\\final_project-main\\final_project-main\\final\\Motorbike rental\\Motorbike rental\\Motorbike rental.csproj",
       "projectName": "Motorbike rental",
-      "projectPath": "C:\\Users\\patap\\Documents\\final_project-main\\final_project-main\\Motorbike rental\\Motorbike rental\\Motorbike rental.csproj",
+      "projectPath": "C:\\Users\\patap\\Documents\\final_project-main\\final_project-main\\final\\Motorbike rental\\Motorbike rental\\Motorbike rental.csproj",
       "packagesPath": "C:\\Users\\patap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patap\\Documents\\final_project-main\\final_project-main\\Motorbike rental\\Motorbike rental\\obj\\",
+      "outputPath": "C:\\Users\\patap\\Documents\\final_project-main\\final_project-main\\final\\Motorbike rental\\Motorbike rental\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

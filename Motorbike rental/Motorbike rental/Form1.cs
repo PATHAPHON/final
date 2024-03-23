@@ -14,7 +14,6 @@ namespace Motorbike_rental
         {
 
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -23,7 +22,7 @@ namespace Motorbike_rental
         {
 
         }
-        //เป็นการประกาศตัวแปรชื่อ Fazzio ของ class Fazzio โดยใช้ constructor เริ่มต้นของ class Fazzio
+        //เป็นการประกาศ 
         Fazzio Fazzio = new Fazzio();
         PCX150 PCX150 = new PCX150();
         YZFR3 YZFR3 = new YZFR3();
@@ -45,7 +44,6 @@ namespace Motorbike_rental
 
         private void button5_Click(object sender, EventArgs e)
         {
-            PCX150 PCX150 = new PCX150();
             CylindervolumeTextbox.Text = PCX150.CylinderVolume();
             FueltypeTextbox.Text = PCX150.FuelType();
             RentalpriceDayTextbox.Text = Convert.ToString(PCX150.Rental_price_DAY());

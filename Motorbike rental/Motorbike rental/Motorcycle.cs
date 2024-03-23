@@ -8,6 +8,7 @@ namespace Motorbike_rental
 {
     internal class Fazzio : Vehicle
     {
+        //Inheritance หรือ การสืบทอด ในภาษาโปรแกรมเชิงวัตถุ หมายถึง ความสามารถของ class หนึ่ง  ในการสืบทอดคุณสมบัติ (field, method) จาก class อื่น (superclass)
         public Fazzio()
         {
             Name = "Fazzio";
@@ -29,7 +30,7 @@ namespace Motorbike_rental
         {
             Name = "PCX150";
             Brand = "Honda";
-            CategoryType = Category.Big_Scooter;
+            CategoryType = Category.Scooter;
             ColorMotorcycle = Color.Red;
             Cylindervolume = "มีปริมาตรกระบอกสูบ 149.3 ซีซี";
             Fueltype = "รองรับน้ำมันหลายประเภท ดังนี้ เบนซิน 91 , แก๊สโซฮอล์ 95 (E10) , แก๊สโซฮอล์ 91 ,เบนซิน 95";
@@ -41,11 +42,12 @@ namespace Motorbike_rental
 
     internal class YZFR3 : Vehicle
     {
+        
         public YZFR3()
         {
             Name = "YZF-R3";
             Brand = "Honda";
-            CategoryType = Category.Big_Scooter;
+            CategoryType = Category.Sport_Bike;
             ColorMotorcycle = Color.Black;
             Cylindervolume = "มีปริมาตรกระบอกสูบ 321 ซีซี";
             Fueltype = "รองรับน้ำมันแก๊สโซฮอล์ E20 หรือเบนซินค่าออกเทน 91 ขึ้นไป";
@@ -61,7 +63,7 @@ namespace Motorbike_rental
         {
             Name = "X-MAX 300 ";
             Brand = "Honda";
-            CategoryType = Category.Big_Scooter;
+            CategoryType = Category.Sport_Family;
             ColorMotorcycle = Color.White;
             Cylindervolume = "มีปริมาตรกระบอกสูบ 292 ซีซี";
             Fueltype = "รองรับน้ำมันแก๊สโซฮอล์ แก๊สโซฮอล์ 95 (E10)";
